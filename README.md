@@ -11,4 +11,3 @@ Go to 05_my_project folder <br>
 In browser <br>
 localhost:8080 <br>
 localhost:3333
-# 05_my_project
