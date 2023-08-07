@@ -1,4 +1,6 @@
-#### In the terminal: 
+Install Docker
+
+##### In the terminal: 
 Go to server folder <br>
 `npm install`
 
